@@ -1,0 +1,11 @@
+C:\MidTerm\bin\Debug\netcoreapp2.0\MidTerm.deps.json
+C:\MidTerm\bin\Debug\netcoreapp2.0\MidTerm.runtimeconfig.json
+C:\MidTerm\bin\Debug\netcoreapp2.0\MidTerm.runtimeconfig.dev.json
+C:\MidTerm\bin\Debug\netcoreapp2.0\MidTerm.dll
+C:\MidTerm\bin\Debug\netcoreapp2.0\MidTerm.pdb
+C:\MidTerm\obj\Debug\netcoreapp2.0\MidTerm.csprojResolveAssemblyReference.cache
+C:\MidTerm\obj\Debug\netcoreapp2.0\MidTerm.csproj.CoreCompileInputs.cache
+C:\MidTerm\obj\Debug\netcoreapp2.0\MidTerm.AssemblyInfoInputs.cache
+C:\MidTerm\obj\Debug\netcoreapp2.0\MidTerm.AssemblyInfo.cs
+C:\MidTerm\obj\Debug\netcoreapp2.0\MidTerm.dll
+C:\MidTerm\obj\Debug\netcoreapp2.0\MidTerm.pdb
