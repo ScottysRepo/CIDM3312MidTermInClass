@@ -9,3 +9,14 @@ C:\MidTerm\obj\Debug\netcoreapp2.0\MidTerm.AssemblyInfoInputs.cache
 C:\MidTerm\obj\Debug\netcoreapp2.0\MidTerm.AssemblyInfo.cs
 C:\MidTerm\obj\Debug\netcoreapp2.0\MidTerm.dll
 C:\MidTerm\obj\Debug\netcoreapp2.0\MidTerm.pdb
+C:\MidTermInClass\obj\Debug\netcoreapp2.0\MidTerm.csprojResolveAssemblyReference.cache
+C:\MidTermInClass\obj\Debug\netcoreapp2.0\MidTerm.csproj.CoreCompileInputs.cache
+C:\MidTermInClass\obj\Debug\netcoreapp2.0\MidTerm.AssemblyInfoInputs.cache
+C:\MidTermInClass\obj\Debug\netcoreapp2.0\MidTerm.AssemblyInfo.cs
+C:\MidTermInClass\obj\Debug\netcoreapp2.0\MidTerm.dll
+C:\MidTermInClass\obj\Debug\netcoreapp2.0\MidTerm.pdb
+C:\MidTermInClass\bin\Debug\netcoreapp2.0\MidTerm.deps.json
+C:\MidTermInClass\bin\Debug\netcoreapp2.0\MidTerm.runtimeconfig.json
+C:\MidTermInClass\bin\Debug\netcoreapp2.0\MidTerm.runtimeconfig.dev.json
+C:\MidTermInClass\bin\Debug\netcoreapp2.0\MidTerm.dll
+C:\MidTermInClass\bin\Debug\netcoreapp2.0\MidTerm.pdb

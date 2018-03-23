@@ -12542,11 +12542,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MidTerm\\MidTerm.csproj",
+      "projectUniqueName": "C:\\MidTermInClass\\MidTerm.csproj",
       "projectName": "MidTerm",
-      "projectPath": "C:\\MidTerm\\MidTerm.csproj",
+      "projectPath": "C:\\MidTermInClass\\MidTerm.csproj",
       "packagesPath": "C:\\Users\\sseethoff\\.nuget\\packages\\",
-      "outputPath": "C:\\MidTerm\\obj\\",
+      "outputPath": "C:\\MidTermInClass\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
